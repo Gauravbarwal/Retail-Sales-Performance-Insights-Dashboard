@@ -51,3 +51,7 @@ This project strengthened my skills in data analysis, KPI selection, data visual
 ## Author
 Gaurav Barwal
 
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard-screenshot.png)
